@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kamulanga Secondary School</string>
+    <string name="welcome_message">Welcome to Kamulanga Secondary School</string>
+    <string name="login_hint">Enter Password</string>
+    <string name="login_button">Login</string>
+    <string name="home_title">Home</string>
+    <string name="timetable_button">Timetable</string>
+    <string name="notices_button">Notices</string>
+    <string name="logout_button">Logout</string>
+    <string name="timetable_title">School Timetable</string>
+    <string name="notices_title">School Notices</string>
+    <string name="sample_notice_1">1. Inter-house sports competition this Friday.</string>
+    <string name="sample_notice_2">2. Mid-term exams start next week Monday.</string>
+    <string name="sample_notice_3">3. Parents Teachers Meeting scheduled for next month.</string>
+    <string name="wrong_password">Incorrect password!</string>
+    <string name="timetable_content">Monday: Math, English, Science\nTuesday: History, Art, P.E.\nWednesday: Physics, Chemistry, Biology\nThursday: Geography, Music, English\nFriday: Math, Computer Science, Library</string>
+</resources>
